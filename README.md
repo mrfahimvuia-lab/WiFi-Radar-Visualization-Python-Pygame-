@@ -1,3 +1,7 @@
+wifi-radar
+│
+├── wifi_radar.py
+└── README.md
 # 📡 WiFi Radar Visualization (Python + Pygame)
 
 A visually interactive **WiFi Radar** that displays nearby networks based on signal strength.
